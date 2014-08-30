@@ -3,6 +3,8 @@ Machine Learning
 
 This repo save my exercises for the Stanford/Coursera Machine Learning Class (ml-006), taught by Andrew Ng.
 
+2014.06.06 -- 2014.09.14 
+
 ## Usage
 All code was developed and tested on:
 
@@ -52,11 +54,11 @@ https://www.coursera.org/course/ml
 > * Dimensionality Reduction
 > * Programming Exercise 7: K-means Clustering and Principal Component Analysis
 
-#### Week 9 (TODO)
+#### Week 9
 > * Anomaly Detection
 > * Recommender Systems
 > * Programming Exercise 8: Anomaly Detection and Recommender Systems
 
-#### Week 10 (TODO)
+#### Week 10
 > * Large-Scale Machine Learning
 > * Example of an application of machine learning
